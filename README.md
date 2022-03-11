@@ -1,6 +1,6 @@
 # cslock
 
-Build of `slock`.
+Patched build of `slock`.
 
 ## Table of contents
   - [Requirements <a name="requirements"></a>](#requirements-)
