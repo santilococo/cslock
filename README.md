@@ -6,6 +6,7 @@ Patched build of `slock`.
   - [Requirements <a name="requirements"></a>](#requirements-)
   - [Installation <a name="installation"></a>](#installation-)
   - [Usage <a name="usage"></a>](#usage-)
+  - [Patches <a name="patches"></a>](#patches-)
   - [Contributing <a name="contributing"></a>](#contributing-)
   - [License <a name="license"></a>](#license-)
 
@@ -30,6 +31,10 @@ slock
 ```
 
 Then, to get out of it, enter your password.
+
+## Patches <a name="patches"></a>
+
+- Foreground and background.
 
 ## Contributing <a name="contributing"></a>
 PRs are welcome.
